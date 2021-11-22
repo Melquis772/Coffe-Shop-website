@@ -1,0 +1,22 @@
+Hacer una website e-commerce de un coffe shop.
+La pagina web debe de tener una seccion:
+home
+about
+menu
+products
+contactos
+
+Home:
+tendra una titulo y un subtitulo y una imagen al lado
+
+About:
+tendra un texto acerca de la empresa y una imagen
+
+Menu
+Tendra varias cards con los productos que los clientes pueden ordenar
+
+Productos
+tendra varias cards con los productos que los clientes pueden comprar
+
+Contactos.
+Tendra un mapa y tendra un formulario de contacto

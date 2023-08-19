@@ -294,23 +294,23 @@ body{
 }
 
 .home__boton{
-    padding:.7rem 3.5rem;
+    padding:.8rem 3.5rem;
     margin-top: 2rem;
     text-decoration: none;
-    font-size: 2.7rem;
-    font-weight: 700;
-    color: var(--negro);
+    font-size: 2rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: var(--letras);
     margin-left: 8%;
-    background-color: var(--letras);
+    background-color: transparent;
     border: 0.25rem solid var(--letras);
-    border-radius: 5px;
     transition: all .3s linear;
 }
 
 .home__boton:hover{
-    background-color: transparent;
+    background-color: var(--letras);
     border: 0.25rem solid var(--letras);
-    color: var(--letras);
+    color: var(--negro);
 }
 
 /* ABOUT SECTION */
@@ -385,7 +385,7 @@ body{
     margin-top: 2rem;
     text-decoration: none;
     font-size: 1.3rem;
-    font-weight: 500;
+    font-weight: 300;
     color: #fff;
     border: 0.25rem solid var(--letras);
     transition: all .3s linear;
@@ -625,7 +625,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 0.002rem solid var(--letras);
+    /*border: 0.002rem solid var(--letras);*/
 }
 
 .contact__form h3{
@@ -731,7 +731,7 @@ body{
     text-decoration: none;
     color: #fff;
     padding: .7rem  1.2rem;
-    border: 0.2rem solid var(--letras);
+    /*border: 0.2rem solid var(--letras);*/
     margin: 0 1.3rem;
     margin-bottom: 2rem;
     transition: all .3s linear;
@@ -785,7 +785,7 @@ body{
 }
 
 .footer__social-media a i:hover{
-    border: 0.002rem solid var(--letras);
+    /*border: 0.002rem solid var(--letras);*/
     color: #fff;
 }
 
